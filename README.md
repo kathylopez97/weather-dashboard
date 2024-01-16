@@ -81,8 +81,8 @@ VS Code
 [The URL of the Github repository](https://github.com/kathylopez97/weather-dashboard)
 
 ## Mock-up
+![weather-dashboard](<Weather Dashboard.gif>)
 
-![work-day-scheduler](<Work Day Scheduler.gif>)
 ## Credits
 -  https://www.youtube.com
 -  https://www.w3schools.com
