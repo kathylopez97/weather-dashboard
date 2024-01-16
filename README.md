@@ -75,7 +75,7 @@ VS Code
 
 ## Links
 
-[The URL of the deployed application]()
+[The URL of the deployed application](https://kathylopez97.github.io/weather-dashboard/)
 
 
 [The URL of the Github repository](https://github.com/kathylopez97/weather-dashboard)
