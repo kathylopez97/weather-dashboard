@@ -1,4 +1,4 @@
-## Weather API Dashboard 
+## Weather Dashboard 
 This is a weather dashboard with form inputs that will run in the browser and feature dynamically updated HTML and CSS. It allows the user to search to view weather outlook for multiple cities so travelers can plan a trip accordingly.
 The purpose of Weather Dashboard is to make it easier for users to navigate weather data and in a timely manner.
 ## Overview of Weather Dashboard
